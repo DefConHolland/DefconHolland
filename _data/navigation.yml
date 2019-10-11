@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog/
+- name: Meetup page
+  link: https://www.meetup.com/DefCon-Holland/
+- name: Twitter
+  link: https://twitter.com/defconholland
+- name: Facebook
+  link: https://www.facebook.com/defconholland

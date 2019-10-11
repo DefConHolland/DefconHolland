@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    background-image: url(/assets/images/dc31xx.jpg);
+    #background-image: url(/assets/images/dcholland.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header h2 {
+	color: white;
+}
+
+h1 {
+	margin-block-end: 0em;
+}

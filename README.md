@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# We are DefCon Holland...
 
-You can use the [editor on GitHub](https://github.com/MrSeccubus/DefconHolland/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a collective of people that organize the DC3115 and DC3120 meetups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DefCon Holland meetups are meetups for or Dutch Hackers in a Dutch bar after work or school. We will have a stage with amazing speakers, some oldschool games and if you had too much beer & bitterballen you can do some hacker karaoke if you want.
 
-### Markdown
+## Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Last 10 posts
 
-```markdown
-Syntax highlighted code block
+<ul>
+{% for post in site.posts %}
+	{% if forloop.index <= 10 %}
+	    <li>
+	        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	    </li>
+	{% endif %}
+{% endfor %}
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+[All posts](/blog)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrSeccubus/DefconHolland/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
