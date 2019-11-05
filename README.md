@@ -12,7 +12,7 @@ Last 10 posts
 {% for post in site.posts %}
 	{% if forloop.index <= 10 %}
 	    <li>
-	        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} ({{ post.date | date: "%Y-%m-%d"}})</a>
 	    </li>
 	{% endif %}
 {% endfor %}
