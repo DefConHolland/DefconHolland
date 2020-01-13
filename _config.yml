@@ -16,3 +16,6 @@ markdown: kramdown
 show_downloads: false
 github:
   is_project_page: true
+
+plugins:
+  - jekyll-sitemap
