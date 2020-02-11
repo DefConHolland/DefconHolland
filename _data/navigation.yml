@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: About us...
+  link: /about_us/
 - name: Blog
   link: /blog/
 - name: Meetup page

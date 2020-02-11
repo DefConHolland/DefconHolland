@@ -2,7 +2,7 @@
 
 We are a collective of people that organize the DC3115 and DC3120 meetups.
 
-DefCon Holland meetups are meetups for or Dutch Hackers in a Dutch bar after work or school. We will have a stage with amazing speakers, some oldschool games and if you had too much beer & bitterballen you can do some hacker karaoke if you want.
+DefCon Holland meetups are meetups for Dutch Hackers in a Dutch bar after work or school. We will have a stage with amazing speakers, some oldschool games and if you had too much beer & bitterballen you can do some hacker karaoke if you want.
 
 ## Blog
 
