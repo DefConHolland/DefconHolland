@@ -19,5 +19,3 @@ Last 10 posts
 </ul>
 
 [All posts](/blog)
-
-...
