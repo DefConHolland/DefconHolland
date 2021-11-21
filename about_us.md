@@ -1,3 +1,6 @@
+---
+
+---
 # We are DefCon Holland...
 
 DefconHolland is the combined DC3115 and DC3120 group. Together we organize the DC3115 and DC3120 meetups.
@@ -21,10 +24,11 @@ Yes we do! We want to give seasoned and starting speakers alike.
 Anything hacky is a valid topic, not just information security.
 
 Topics we had in the past:
+
 * Wifi spotting
 * Infosec
 * Hacking != InfoSec (on arts and other stuff)
 
 DefConb Holland is also a great place to get your feet wet and try out you talk.
 
-
+...
