@@ -13,13 +13,8 @@ fields:
 - type: text
   name: author
   label: author
-- type: text
-  name: tags
-  label: tags
-- name: bla
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: bla
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: 'Tag the location here: dc3115, dc3120, dc3110, etc.'
