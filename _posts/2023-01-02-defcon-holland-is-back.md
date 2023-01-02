@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: []
-title: Defcon Holland is back!
+title: Defcon Holland is back in 2023!
 author: Martine
 
 ---
