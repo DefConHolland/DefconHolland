@@ -17,10 +17,10 @@ Defcon Holland meetup is only two days away! To get you even more excited, we wa
 
 **20:00** Break
 
-**20:30** Speaker 3 A dark alternate reality story, the Dutch institute for Vulnerability disclosure as an initial access group.
+**20:30** Speaker 3 Doomsday scenarios the Dutch Institure for Vulnerability Disclosure hopes it prevents
 
 **21:00** Speaker 4 Incident response from the trenches
 
 **21:30** Drinks!
 
-![http://photos.wikimapia.org/p/00/05/29/80/08_big.jpg](http://photos.wikimapia.org/p/00/05/29/80/08_big.jpg)
+![http://photos.wikimapia.org/p/00/05/29/80/08](http://photos.wikimapia.org/p/00/05/29/80/08_big.jpg)
