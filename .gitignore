@@ -3,3 +3,6 @@
 .jekyll-metadata
 Gemfile.lock
 _site/
+.DS_Store
+.jekyll-cache
+_config_livereload.yml
